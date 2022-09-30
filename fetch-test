@@ -1,5 +1,5 @@
 def this_is_demo(){
-print("this is merge test"
+print("this is merge test")
 }
 def fetch_test(){
 }
